@@ -1,0 +1,124 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: Two or more files with the name of plane.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are PhysicsEngine\plane.cpp, 3DObjects\plane.cpp.
+  game.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file 'game.cpp')
+      C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\Include\GLFW\glfw3.h(123,11):
+      see previous definition of 'APIENTRY'
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\math.h(450,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\math.h(464,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\math.h(577,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\math.h(578,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\math.h(579,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\math.h(580,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\geomipGrid.h(33,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\geomipGrid.h(33,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\geomipGrid.h(33,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\geomipGrid.h(38,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\geomipGrid.h(38,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\3DOBjects\cube.h(20,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\3DOBjects\cube.h(20,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\3DOBjects\cube.h(20,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\3DOBjects\cube.h(43,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\3DOBjects\cube.h(43,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\3DOBjects\cube.h(43,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\3DOBjects\cube.h(48,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\3DOBjects\cube.h(48,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\3DOBjects\lightweightCube.h(20,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\3DOBjects\lightweightCube.h(20,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\3DOBjects\lightweightCube.h(20,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\3DOBjects\lightweightCube.h(43,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\3DOBjects\lightweightCube.h(43,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\3DOBjects\lightweightCube.h(43,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\3DOBjects\lightweightCube.h(48,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\3DOBjects\lightweightCube.h(48,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\3DOBjects\plane.h(20,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\3DOBjects\plane.h(20,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\3DOBjects\plane.h(20,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\3DOBjects\plane.h(36,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\3DOBjects\plane.h(36,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\3DOBjects\plane.h(36,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\3DOBjects\plane.h(41,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\3DOBjects\plane.h(41,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\mesh.h(15,9): warning C4005: 'ASSIMP_LOAD_FLAGS': macro redefinition
+  (compiling source file 'game.cpp')
+      C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\skinnedMesh.h(14,9):
+      see previous definition of 'ASSIMP_LOAD_FLAGS'
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\game.cpp(585,28): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+      C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\game.cpp(585,28):
+      consider using '%zu' in the format string
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\math.h(489,1): warning C4172: returning address of local variable or temporary : out
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\math.h(642,1): warning C4172: returning address of local variable or temporary : out
+  BattlefrontRemake.vcxproj -> C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\BulletPhysics\x64\Debug\BattlefrontRemake.exe

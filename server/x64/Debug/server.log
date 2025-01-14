@@ -1,0 +1,6 @@
+﻿  server.cpp
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\server\main\server.cpp(111,24): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+      C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\server\main\server.cpp(111,24):
+      consider using '%zu' in the format string
+  
+  server.vcxproj -> C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\SimpleMultiplayerGame\MultiplayerExample\x64\Debug\server.exe

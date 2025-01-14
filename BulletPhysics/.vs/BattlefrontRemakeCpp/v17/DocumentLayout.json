@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0426D0C-527B-4904-919C-E4C6EF35EE86}|BattlefrontRemake.vcxproj|C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0426D0C-527B-4904-919C-E4C6EF35EE86}|BattlefrontRemake.vcxproj|solutionrelative:game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0426D0C-527B-4904-919C-E4C6EF35EE86}|BattlefrontRemake.vcxproj|C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\3DObjects\\cube.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0426D0C-527B-4904-919C-E4C6EF35EE86}|BattlefrontRemake.vcxproj|solutionrelative:3DObjects\\cube.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0426D0C-527B-4904-919C-E4C6EF35EE86}|BattlefrontRemake.vcxproj|C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0426D0C-527B-4904-919C-E4C6EF35EE86}|BattlefrontRemake.vcxproj|solutionrelative:game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0426D0C-527B-4904-919C-E4C6EF35EE86}|BattlefrontRemake.vcxproj|C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0426D0C-527B-4904-919C-E4C6EF35EE86}|BattlefrontRemake.vcxproj|solutionrelative:camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0426D0C-527B-4904-919C-E4C6EF35EE86}|BattlefrontRemake.vcxproj|C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0426D0C-527B-4904-919C-E4C6EF35EE86}|BattlefrontRemake.vcxproj|solutionrelative:camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0426D0C-527B-4904-919C-E4C6EF35EE86}|BattlefrontRemake.vcxproj|C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0426D0C-527B-4904-919C-E4C6EF35EE86}|BattlefrontRemake.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\BulletPhysics\\src\\BulletDynamics\\Dynamics\\btRigidBody.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BulletPhysics\\src\\BulletDynamics\\Dynamics\\btRigidBody.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0426D0C-527B-4904-919C-E4C6EF35EE86}|BattlefrontRemake.vcxproj|C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\objectShader.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A0426D0C-527B-4904-919C-E4C6EF35EE86}|BattlefrontRemake.vcxproj|solutionrelative:objectShader.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0426D0C-527B-4904-919C-E4C6EF35EE86}|BattlefrontRemake.vcxproj|C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\objectTechnique.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0426D0C-527B-4904-919C-E4C6EF35EE86}|BattlefrontRemake.vcxproj|solutionrelative:objectTechnique.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cube.cpp",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\3DObjects\\cube.cpp",
+              "RelativeDocumentMoniker": "3DObjects\\cube.cpp",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\3DObjects\\cube.cpp",
+              "RelativeToolTip": "3DObjects\\cube.cpp",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAswGUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T17:08:48.228Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "btRigidBody.h",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\BulletPhysics\\src\\BulletDynamics\\Dynamics\\btRigidBody.h",
+              "RelativeDocumentMoniker": "BulletPhysics\\src\\BulletDynamics\\Dynamics\\btRigidBody.h",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\BulletPhysics\\src\\BulletDynamics\\Dynamics\\btRigidBody.h",
+              "RelativeToolTip": "BulletPhysics\\src\\BulletDynamics\\Dynamics\\btRigidBody.h",
+              "ViewState": "AgIAABsCAAAAAAAAAIAwwCkCAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-11T14:47:40.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "objectTechnique.cpp",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\objectTechnique.cpp",
+              "RelativeDocumentMoniker": "objectTechnique.cpp",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\objectTechnique.cpp",
+              "RelativeToolTip": "objectTechnique.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T13:08:56.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "objectShader.vs",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\objectShader.vs",
+              "RelativeDocumentMoniker": "objectShader.vs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\objectShader.vs",
+              "RelativeToolTip": "objectShader.vs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-11T13:07:53.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-09T17:41:46.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game.cpp",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\game.cpp",
+              "RelativeDocumentMoniker": "game.cpp",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\game.cpp",
+              "RelativeToolTip": "game.cpp",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAuwK4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-09T17:26:04.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "camera.h",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\camera.h",
+              "RelativeDocumentMoniker": "camera.h",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\camera.h",
+              "RelativeToolTip": "camera.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-22T17:23:54.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "camera.cpp",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\camera.cpp",
+              "RelativeDocumentMoniker": "camera.cpp",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\camera.cpp",
+              "RelativeToolTip": "camera.cpp",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAmwFcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-22T13:06:38.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game.h",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\game.h",
+              "RelativeDocumentMoniker": "game.h",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\SimpleMultiplayerGame\\BulletPhysics\\game.h",
+              "RelativeToolTip": "game.h",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwCoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-20T16:06:04.764Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 364,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 364,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
